@@ -1,4 +1,4 @@
-**[Bug Location] Brief description of the bug**
+**Title: [Bug Location] Brief description of the bug**
 
 **Description**: A clear and concise description of what the bug is and what the correct behavior should be.
 
