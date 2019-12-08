@@ -1,20 +1,9 @@
----
-name: Bug report
-about: Found a bug? Report it here
-title: ''
-labels: ''
-assignees: ''
+**[Bug Location] Brief description of the bug**
 
----
+**Description**: A clear and concise description of what the bug is and what the correct behavior should be.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**How To Reproduce**: Unless it is obvious, give step by step instructions on how to reproduce the bug.
 
-**To Reproduce**
-Steps to reproduce the behavior
+**Sources**: Link acceptable sources showing what the correct behavior is.
 
-**How it should work**
-A clear and concise description on how it should work. Make sure to add IDs(spells, quests, NPCs, objects, GUIDs) and most imporantly sources(websites, screenshots, videos...). Without adding sources the bug report will be closed immediately.
-
-**Additional info**
-Add any other info about the problem here.
+Don't forget to add labels to your report before you submit it!
