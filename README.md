@@ -10,10 +10,6 @@ Please do a quick search to see if the issue you have encountered was already re
 
 The issue title should have the location of the bug in brackets, followed by a brief but informative description of the issue.  Please be specific.  For example, "[Deadmines] Mr. Smite missing aggro quote" or "[Class - Hunter] Disengage causes hunter to fly forward, not backwards".
 
-## Labels
-
-Please add any relevant labels before posting your bug report.
-
 ## Description
 
 Be as specific as possible in describing the bug.  State the current behavior as well as the correct behavior.  If the issue related to a specific NPC, please use the ".npc ids" command on it and include the Entry ID and GUID in your report.  If the issues relates to a spell, whether a player spell or an creature spell, please include the spell ID if you can find it.
