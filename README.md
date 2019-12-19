@@ -2,7 +2,7 @@
 
 Welcome to the Shadowcrest bugtracker.  We appreciate your interest in helping to make the Shadowcrest experience as bug-free as possible.  In order to make make things easier on the development team and make it more likely that the issue you're reporting gets addressed, please read and follow these guidelines when submitting a bug report.  If your bug report does not follow these guidelines, we will likely remove your report.
 
-## Before you post
+## Before You Post
 
 Please do a quick search to see if the issue you have encountered was already reported.  If there is something you would like to add to this report, please leave it as a comment in the original post rather than creating a new report.
 
@@ -18,7 +18,7 @@ Be as specific as possible in describing the bug.  State the current behavior as
 
 Unless the correct behavior is blatantly obvious, such as a mining node being underground should be above ground, you must include evidence of the correct behavior.  Acceptable sources include patch notes, videos/combat logs from the WOTLK era or prior, and videos/combat logs from Classic WoW.  If no other sources are available, you may include wowhead comments and wow wiki type articles from the WOTLK era or prior, but we do not take these sources as seriously as those previously listed.  Do not include any private server footage or database information as evidence of correct behavior.
 
-## Steps to reproduce
+## Steps to Reproduce
 
 Unless it is obvious, please include detailed instruction on how to reproduce the bug.
 
