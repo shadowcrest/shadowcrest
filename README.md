@@ -12,7 +12,7 @@ The issue title should have the location of the bug in brackets, followed by a b
 
 ## Description
 
-Be as specific as possible in describing the bug.  State the current behavior as well as the correct behavior.  If the issue related to a specific NPC, please use the ".npc ids" command on it and include the Entry ID and GUID in your report.  If the issues relates to a spell, whether a player spell or an creature spell, please include the spell ID if you can find it.
+Be as specific as possible in describing the bug.  State the current behavior as well as the correct behavior.  If the issue related to a specific NPC, please use the ".npc ids" command on it and include the Entry ID and GUID in your report.  If the issue relates to a spell, whether a player spell or an creature spell, please include the spell ID if you can find it.
 
 ## Evidence of Correct Behavior
 
