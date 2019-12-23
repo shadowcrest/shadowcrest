@@ -5,5 +5,3 @@
 **How To Reproduce**: Unless it is obvious, give step by step instructions on how to reproduce the bug.
 
 **Sources**: Link acceptable sources showing what the correct behavior is.
-
-Don't forget to add labels to your report before you submit it!
